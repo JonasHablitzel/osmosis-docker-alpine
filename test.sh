@@ -1,1 +1,0 @@
-osmosis --read-pbf "osm-data/stuttgart-regbez-latest.osm.pbf" --write-xml file="osm-data/stuttgart-regbez-latest.osm"
